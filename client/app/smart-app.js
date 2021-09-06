@@ -1,1 +1,1 @@
-angular.module('smartApp', []);
+angularmodule('smartApp', []);
